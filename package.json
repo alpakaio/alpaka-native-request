@@ -1,0 +1,45 @@
+{
+  "name": "@alpakaio/alpaka-native-request",
+  "version": "1.0.0",
+  "description": "Request facade used by Alpaka React Native apps",
+  "main": "index.js",
+  "private": false,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"flow-check": "npx flow check-contents < index.js.flow",
+    "ts-check": "npx tsc index.d.ts --noEmit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alpakaio/alpaka-native-request.git"
+  },
+  "author": {
+	"name": "Victoria French",
+    "email": "victoria.french@cinecove.com",
+    "url": "https://github.com/victoriafrench"
+  },
+  "contributors": [
+	{
+		"name": "Victoria French",
+		"email": "victoria.french@cinecove.com",
+		"url": "https://github.com/victoriafrench"
+	}
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alpakaio/alpaka-native-request/issues"
+  },
+  "homepage": "https://github.com/alpakaio/alpaka-native-request#readme",
+  "peerDependencies": {
+    "react-native-device-info": "^2"
+  },
+  "dependencies": {
+    "@alpakaio/alpaka-native-useragent": "^1",
+    "axios": "^0.18.0"
+  },
+  "keywords": [
+	"alpaka",
+	"network"
+  ],
+  "typings": "./index.d.ts"
+}
