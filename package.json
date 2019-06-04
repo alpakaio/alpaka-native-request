@@ -6,7 +6,7 @@
   "private": false,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-	"flow-check": "npx flow check-contents < index.js.flow",
+    "flow-check": "npx flow check-contents < index.js.flow",
     "ts-check": "npx tsc index.d.ts --noEmit"
   },
   "repository": {
@@ -14,16 +14,16 @@
     "url": "git+https://github.com/alpakaio/alpaka-native-request.git"
   },
   "author": {
-	"name": "Victoria French",
+    "name": "Victoria French",
     "email": "victoria.french@cinecove.com",
     "url": "https://github.com/victoriafrench"
   },
   "contributors": [
-	{
-		"name": "Victoria French",
-		"email": "victoria.french@cinecove.com",
-		"url": "https://github.com/victoriafrench"
-	}
+    {
+      "name": "Victoria French",
+      "email": "victoria.french@cinecove.com",
+      "url": "https://github.com/victoriafrench"
+    }
   ],
   "license": "MIT",
   "bugs": {
@@ -35,11 +35,11 @@
   },
   "dependencies": {
     "@alpakaio/alpaka-native-useragent": "^1",
-    "axios": "^0.18.0"
+    "axios": "^0.19.0"
   },
   "keywords": [
-	"alpaka",
-	"network"
+    "alpaka",
+    "network"
   ],
   "typings": "./index.d.ts"
 }
