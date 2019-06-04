@@ -2,7 +2,7 @@
 
 ## HEAD
 
-> [See Changes](https://github.com/placeposition/alpaka-presence/compare/v1.0.0...master)
+> [See Changes](https://github.com/placeposition/alpaka-presence/compare/v1.0.1...master)
 
 * No Changes
 
@@ -10,7 +10,7 @@
 
 > [See Changes](https://github.com/placeposition/alpaka-presence/compare/1.0.0...v1.0.1)
 
-* **UPDATED** Dependecies
+* **UPDATED** Dependencies
 
 ## v1.0.0 (May 22, 2019)
 
