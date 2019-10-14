@@ -31,7 +31,7 @@
   },
   "homepage": "https://github.com/alpakaio/alpaka-native-request#readme",
   "peerDependencies": {
-    "react-native-device-info": "^2"
+    "react-native-device-info": "^4"
   },
   "dependencies": {
     "@alpakaio/alpaka-native-useragent": "^1",
