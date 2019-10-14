@@ -1,6 +1,6 @@
 {
   "name": "@alpakaio/alpaka-native-request",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Request facade used by Alpaka React Native apps",
   "main": "index.js",
   "private": false,
