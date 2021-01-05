@@ -35,7 +35,7 @@
   },
   "dependencies": {
     "@alpakaio/alpaka-native-useragent": "^1",
-    "axios": "^0.19.0"
+    "axios": "^0.21.1"
   },
   "keywords": [
     "alpaka",
